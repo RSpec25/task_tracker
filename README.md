@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Screenhot of app
+# Screenshot of the react-app
 ![image](https://github.com/RSpec25/task_tracker/assets/97079750/063baaf4-580c-4e7e-a33f-c899b8522594)
 
 All features exist except drag and drop.
